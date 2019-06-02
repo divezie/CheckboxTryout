@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckboxTryout</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_hint">Add what\'s on your mind: dancing,practice etc.</string>
+</resources>
